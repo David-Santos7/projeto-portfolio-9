@@ -1,4 +1,4 @@
-##Mundo Invertido - Projeto Stranger Things##
+## Mundo Invertido - Projeto Stranger Things
 
 Este projeto é uma landing page temática da série Stranger Things, desenvolvida como parte da "Semana Front-end" da DIO. A página oferece uma experiência imersiva, permitindo que os usuários alternem entre o "Mundo Normal" e o "Mundo Invertido", alterando completamente o visual e a atmosfera do site.
 
