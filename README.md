@@ -28,11 +28,3 @@ HTML5: Para a estruturação semântica do conteúdo da página.
 CSS3: Para a estilização, layout e, principalmente, para a criação dos dois temas (claro e escuro) e das animações de transição.
 
 JavaScript (ES6 Modules): Para a interatividade da página, como a lógica de troca de tema, controle do áudio e manipulação do formulário.
-```
-## 🔗 Links auxiliares
-
-- [W3C - World Wide Web Consortium](http://w3c.org)
-- [WAI - Web Acessibility Initiative](https://www.w3.org/WAI/)
-- [WCAG 2](https://www.w3.org/WAI/WCAG21/quickref/) 
-- [Figma](https://www.figma.com/file/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=0%3A1) 
-- [Demo](https://micheleambrosio.github.io/semana-frontend-mundo-invertido/) 
